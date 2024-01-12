@@ -54,6 +54,6 @@ void showMatrix(const bool metrix[][N])
 	{
 		for (int j = 0; j < N; j++)
 			cout << metrix[i][j] << " ";
-		cout << endl;
+		cout << "\n";
 	}
 }
